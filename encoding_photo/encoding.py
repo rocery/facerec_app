@@ -15,7 +15,7 @@ ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'JPG'}
 
 train_folder = "train"
 fail_folder = "fail"
-model_save_path = "../static/clf/trained_knn_model.clf"
+model_save_path = "../clf/trained_knn_model.clf"
 csv_success = "success_trained.csv"
 csv_fail = "fail_trained.csv"
 
